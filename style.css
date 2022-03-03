@@ -137,7 +137,7 @@ svg:hover{
 }
 
 /* a different version of the grid that is activated on devices 1200px or wider (most tablets and desktop devices*/
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 12000px) {
  body {
  }
   .container{
