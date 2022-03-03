@@ -44,7 +44,7 @@ body {
   background-image: url("assets/back8.png");
   background-repeat: no-repeat;
   background-position: center;
-  /* background-color: black;*/
+  background-color: white;*/
   background-size: contain;
 }
 .text-container{
